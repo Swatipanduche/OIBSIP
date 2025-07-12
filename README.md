@@ -7,7 +7,7 @@ This repository contains my completed tasks for the Oasis Infobyte Web Developme
 - **Task 2**: Personal Portfolio
 - **Task 3**: Temperature Converter
 
-Hosted at: https://swatipanduche.github.io/OIBSIP/
+Hosted at:  https://swatipanduche.github.io/OIBSIP/
 
 Each folder has:
 - `index.html`
